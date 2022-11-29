@@ -1,0 +1,3 @@
+﻿  ContactOop.cpp
+C:\Users\User\Desktop\Contact OOP\ContactOop\ContactOop\ContactOop.cpp(209,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ContactOop.vcxproj -> C:\Users\User\Desktop\Contact OOP\ContactOop\x64\Debug\ContactOop.exe
